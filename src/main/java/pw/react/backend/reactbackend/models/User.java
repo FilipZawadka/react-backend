@@ -22,6 +22,7 @@ public class User {
     private String login;
     private boolean active;
 
+
     public User() {
 
     }
